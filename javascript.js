@@ -13,4 +13,4 @@
 
 let num=1e6;
 console.log(num); 
-console.log("1"); 
+console.log("!!!!"); 
